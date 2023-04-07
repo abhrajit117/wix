@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+#app-name {
+  font-size: 25px;
+  
+  font-family: 'Climate Crisis', cursive;
+}
+#description-text{
+  
+  margin:5%;
+  font-family: 'Climate Crisis', cursive;
+}
+#second-description{
+  margin:5%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+#btn-organize{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+  width:301px;
+  border-radius: 38px;
+}
+#btn-1-holder{
+  margin-left:5%;
+}
+#arrow-img{
+  margin-left: 5%;
+  margin-top: 10%;
+}
+#input{
+  border-radius: 24.5px;
+  color: white;
+  text-align: center;
+}
+#box-holder{
+  margin-right: 27%;
+}
+#g-box{
+  margin-top: 20%;
+  width: 100%;
+}
+#btn-organize:hover{
+    background-color:forestgreen;
+    transition-property: background-color;
+    transition-duration:1s;
+    transition-timing-function:ease-in-out;
+}
